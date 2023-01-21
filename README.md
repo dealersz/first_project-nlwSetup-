@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online] (https://pedroviana04.github.io/first_project-nlwSetup-/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3LdcWxGWQcWImO9K29ToF4/Habits-(e)-(Community)?node-id=6%3A910&t=CCugtld23gm4qC6d-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
