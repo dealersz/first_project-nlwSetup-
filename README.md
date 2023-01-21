@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online] (https://pedroviana04.github.io/first_project-nlwSetup-/)
+- [Visite o projeto online](https://pedroviana04.github.io/first_project-nlwSetup-/)
 
 ## 🔖 Layout
 
